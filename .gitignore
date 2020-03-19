@@ -1,0 +1,37 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+bee_api/.idea/
+
+**/__pycache__/
+**/config.py
+
+.DS_Store
+.env
+.flaskenv
+*.pyc
+*.pyo
+env/
+env*
+dist/
+build/
+*.egg
+*.egg-info/
+_mailinglist
+.tox/
+.cache/
+docs/_build/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+*,cover
+test-results/
+test-reports/
+
+# VsCode
+.vscode/
+~/virtualenvs
+
+# Databases
+*.db

@@ -1,0 +1,5 @@
+flask-googlemaps
+flask
+flask-cors
+xlrd
+pandas
